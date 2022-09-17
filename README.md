@@ -27,16 +27,16 @@ universal development environment for PHP, Node.js, Python, Java, Go, Ruby](http
 
 ## Contents
 ### Star Schema
-<img src="https://github.com/Bayunova28/Coffee_Shop/blob/master/star-schema.jpg" height="700" width="1100">
+<img src="https://github.com/Bayunova28/Coffee_Shop/blob/master/star-schema.jpg" height="600" width="1100">
 
 ### Product
-<img src="https://github.com/Bayunova28/Coffee_Shop/blob/master/product.jpg" height="550" width="1100">
+<img src="https://github.com/Bayunova28/Coffee_Shop/blob/master/product.jpg" height="600" width="1100">
 
 ### Sales Outlet
-<img src="https://github.com/Bayunova28/Coffee_Shop/blob/master/sales_outlet.jpg" height="550" width="1100">
+<img src="https://github.com/Bayunova28/Coffee_Shop/blob/master/sales_outlet.jpg" height="600" width="1100">
 
 ### Sales Target
 <img src="https://github.com/Bayunova28/Coffee_Shop/blob/master/target.png" height="500" width="1100">
 
 ### Staff
-<img src="https://github.com/Bayunova28/Coffee_Shop/blob/master/staff.jpg" height="550" width="1100">
+<img src="https://github.com/Bayunova28/Coffee_Shop/blob/master/staff.jpg" height="600" width="1100">
