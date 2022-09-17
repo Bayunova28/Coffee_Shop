@@ -1,5 +1,5 @@
 # Coffee Shop
-<img src="https://github.com/Bayunova28/Coffee_Shop/blob/master/cover.jpg" height="450" width="1100">
+<img src="https://github.com/Bayunova28/Coffee_Shop/blob/master/background.jpg" height="450" width="1100">
 
 ## Background
 <p align="justify">Coffee is a drink that is consumed by a person so as not to get sleepy because the content in coffee contains caffeine to prevent someone from being 
