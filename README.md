@@ -26,7 +26,7 @@ universal development environment for PHP, Node.js, Python, Java, Go, Ruby](http
 * Download [SQLyog Community Edition](https://github.com/webyog/sqlyog-community/wiki/Downloads)
 
 ## Contents
-### Star Schema
+### Star Schema Model
 <img src="https://github.com/Bayunova28/Coffee_Shop/blob/master/star-schema.jpg" height="600" width="1100">
 
 ### Product
